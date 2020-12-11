@@ -1,15 +1,16 @@
 # SchittsCreekTrivia
 ## SUPERFANS only! Spoilers!!!!
-##### javascript extravaganza
- ###Guess the answer to the trivia question you have 3 letter guesses to help you out solve this kicked up hangman-style game!
+##### javascript extravaganza, API, hangman word guess with alerts, timers, global event handling,
+ ### Guess the answer to the trivia question you have 3 letter guesses to help you out solve this kicked up hangman-style game!
+ ##  You will answer a series of trivia questions and have 3 letter guesses to help to fill in the blanks using the keyboard presses and win the round. You have 1 minute to solve each puzzle.  There are 10 puzzles.
 
-### Points: (# of times the user has guessed the letter correctly)- 3 point max per puzzle
+### Points: (# of times the user has guessed the letter correctly)- 3 chances max per puzzle
 
-#### Strikes: (# of times the user has failed to guess the letter correctly after exhausting all guesses) 3 strikes or wrong choices and you lose
+#### Strikes: (# of times the user has failed to guess the letter correctly after exhausting all guesses) 3 strikes or wrong choices and you lose the round
 
-#### Guesses Left: (# of guesses left. This will update)
+#### Your Guesses Left: (# of guesses left. This will update)
 
-#### Your Guesses So Far: (the specific letters that the user typed. Display these until the user either wins or loses.)
+#### Your Guesses So Far: ( We track the specific letters that you typed so you can play smart. These will display until you either win or lose.)
 
 #### When the player wins, increase the Wins counter and start the game over again (without refreshing the page).
 
