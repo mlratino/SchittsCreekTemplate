@@ -49,3 +49,5 @@
 6. Don't forget to place your global variables and functions above your object.
    * Remember: global variables, then objects, then calls.
 7. Definitely talk with a TA or your instructor if you get tripped up during this challenge.
+
+meyerweb reset to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on. The general reasoning behind this was discussed in a May 2007 post, if you're interested. Reset styles quite often appear in CSS frameworks, and the original "meyerweb reset" found its way into Blueprint, among others.
