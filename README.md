@@ -1,11 +1,12 @@
-# SchittsCreekTrivia
-## SUPERFANS only! Spoilers!!!!
+# SchittsCreekTrivia- a collection of 
+<img src=assets\images\motel.PNG>
+## SUPERFANS only! Tittlating Spoilers!!!!
 ##### javascript extravaganza, API, hangman word guess with alerts, timers, global event handling,
  ### Guess the answer to the trivia question you have 3 letter guesses to help you out solve this kicked up hangman-style game!
  ##  You will answer a series of trivia questions and have 3 letter guesses to help to fill in the blanks using the keyboard presses and win the round. You have 1 minute to solve each puzzle.  There are 10 puzzles.
 
 ### Points: (# of times the user has guessed the letter correctly)- 3 chances max per puzzle
-
+Don't be a Dewdropper and hustle to solve the puzzles before the timer runs out!
 #### Strikes: (# of times the user has failed to guess the letter correctly after exhausting all guesses) 3 strikes or wrong choices and you lose the round
 
 #### Your Guesses Left: (# of guesses left. This will update)
