@@ -1,7 +1,7 @@
 # SchittsCreekTrivia- a collection of 
 <img src=assets\images\motel.PNG>
 ## SUPERFANS only! Tittlating Spoilers!!!! Test your fancy, obscure word knowledge as you are rewarded or punished with gifs and short scenes and references "everything Schitt$ Creek."
-##### javascript extravaganza, API, hangman word guess with alerts, timers, global event handling,this is a living repository.  I will add features as I practice and learn.
+##### javascript extravaganza, API, hangman word guess with alerts, timers, global event handling,this is a living repository.  I will add features as I practice and learn. Helpful https://developers.google.com/web/updates/2020/10/devtools?utm_source=devtools#css-grid
  ### Guess the answer to the trivia question your letter guesses are tracked to help you solve this kicked up hangman-style game!
  
  ##  You will answer a series of trivia questions and have 3 letter guesses to help to fill in the blanks using the keyboard presses and win the round. You have 1 minute to solve each puzzle.  There are 10 puzzles.
