@@ -1,13 +1,24 @@
-# SchittsCreekTrivia- a collection of 
+# SchittsCreekTrivia- a collection of trivia games
 <img src=assets\images\motel.PNG>
 ## SUPERFANS only! Tittlating Spoilers!!!! Test your fancy, obscure word knowledge as you are rewarded or punished with gifs and short scenes and references "everything Schitt$ Creek."
-##### javascript extravaganza, API, hangman word guess with alerts, timers, global event handling,this is a living repository.  I will add features as I practice and learn. Helpful https://developers.google.com/web/updates/2020/10/devtools?utm_source=devtools#css-grid
+
+<img src=assets\images\lobby.jpg>
+
+##### javascript extravaganza, API, hangman word guess with alerts, timers, global event handling,this is a living repository.  I will add features as I practice and learn.
+<!-- 
+ Helpful https://developers.google.com/web/updates/2020/10/devtools?utm_source=devtools#css-grid -->
  ### Guess the answer to the trivia question your letter guesses are tracked to help you solve this kicked up hangman-style game!
- 
+
  ##  You will answer a series of trivia questions and have 3 letter guesses to help to fill in the blanks using the keyboard presses and win the round. You have 1 minute to solve each puzzle.  There are 10 puzzles.
+
+ <img src=assets\images\kidsRoom.jpg>  
 
 ### Points: (# of times the user has guessed the letter correctly)
 Don't be a Dewdropper and hustle to solve the puzzles before the timer runs out!
+
+
+<img src=assets\images\bobsGarage.jpg>
+
 #### Strikes: (# of times the user has failed to guess the letter correctly after exhausting all guesses) X strikes or wrong choices and you lose the round
 
 #### Your Guesses Left: (# of guesses left. This will update)
@@ -17,6 +28,8 @@ Don't be a Dewdropper and hustle to solve the puzzles before the timer runs out!
 #### When the player wins, increase the Wins counter and start the game over again (without refreshing the page).
 
 #### When the player loses, increase the Losses counter and restart the game without a page refresh (just like when the user wins).
+
+<img src=assets\images\schittHome.jpg>
 
 ## Option Two: Word Guess Game (Challenge - Recommended)
 
