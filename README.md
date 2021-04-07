@@ -3,7 +3,7 @@
 ## SUPERFANS only! Tittlating Spoilers!!!! Test your fancy, obscure word knowledge as you are rewarded or punished with gifs and short scenes and references "everything Schitt$ Creek."
 
 <img src=assets\images\lobby.jpg>
-
+https://youtu.be/0kF5zJIbn5U
 ##### javascript extravaganza, API, hangman word guess with alerts, timers, global event handling,this is a living repository.  I will add features as I practice and learn.
 <!-- 
  Helpful https://developers.google.com/web/updates/2020/10/devtools?utm_source=devtools#css-grid -->
