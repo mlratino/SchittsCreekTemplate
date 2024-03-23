@@ -1,6 +1,6 @@
 # SchittsCreekTrivia- a collection of trivia games
 <img src=assets\images\motel.PNG>
-## SUPERFANS only! Tittlating Spoilers!!!! Test your fancy, obscure word knowledge as you are rewarded or punished with gifs and short scenes and references "everything Schitt$ Creek."
+## SUPERFANS only! Tittilating Spoilers!!!! Test your fancy, obscure word knowledge as you are rewarded or punished with gifs and short scenes and references "everything Schitt$ Creek."
 
 <img src=assets\images\lobby.jpg>
 https://youtu.be/0kF5zJIbn5U
